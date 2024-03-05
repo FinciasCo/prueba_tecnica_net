@@ -1,0 +1,5 @@
+C:\Projects\MarketPartyAPI\eSettMg\obj\Debug\net6.0\eSett.Mg.csproj.AssemblyReference.cache
+C:\Projects\MarketPartyAPI\eSettMg\obj\Debug\net6.0\eSett.Mg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MarketPartyAPI\eSettMg\obj\Debug\net6.0\eSett.Mg.AssemblyInfoInputs.cache
+C:\Projects\MarketPartyAPI\eSettMg\obj\Debug\net6.0\eSett.Mg.AssemblyInfo.cs
+C:\Projects\MarketPartyAPI\eSettMg\obj\Debug\net6.0\eSett.Mg.csproj.CoreCompileInputs.cache

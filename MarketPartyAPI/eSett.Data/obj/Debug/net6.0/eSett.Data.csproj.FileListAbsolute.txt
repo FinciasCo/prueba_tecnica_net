@@ -1,0 +1,15 @@
+C:\Projects\MarketPartyAPI\eSett.Data\bin\Debug\net6.0\eSett.Data.deps.json
+C:\Projects\MarketPartyAPI\eSett.Data\bin\Debug\net6.0\eSett.Data.dll
+C:\Projects\MarketPartyAPI\eSett.Data\bin\Debug\net6.0\eSett.Data.pdb
+C:\Projects\MarketPartyAPI\eSett.Data\obj\Debug\net6.0\eSett.Data.csproj.AssemblyReference.cache
+C:\Projects\MarketPartyAPI\eSett.Data\obj\Debug\net6.0\eSett.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MarketPartyAPI\eSett.Data\obj\Debug\net6.0\eSett.Data.AssemblyInfoInputs.cache
+C:\Projects\MarketPartyAPI\eSett.Data\obj\Debug\net6.0\eSett.Data.AssemblyInfo.cs
+C:\Projects\MarketPartyAPI\eSett.Data\obj\Debug\net6.0\eSett.Data.csproj.CoreCompileInputs.cache
+C:\Projects\MarketPartyAPI\eSett.Data\obj\Debug\net6.0\eSett.Data.dll
+C:\Projects\MarketPartyAPI\eSett.Data\obj\Debug\net6.0\refint\eSett.Data.dll
+C:\Projects\MarketPartyAPI\eSett.Data\obj\Debug\net6.0\eSett.Data.pdb
+C:\Projects\MarketPartyAPI\eSett.Data\obj\Debug\net6.0\ref\eSett.Data.dll
+C:\Projects\MarketPartyAPI\eSett.Data\bin\Debug\net6.0\eSett.Model.dll
+C:\Projects\MarketPartyAPI\eSett.Data\bin\Debug\net6.0\eSett.Model.pdb
+C:\Projects\MarketPartyAPI\eSett.Data\obj\Debug\net6.0\eSett.Data.csproj.CopyComplete
